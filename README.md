@@ -17,7 +17,7 @@ This project allows users to submit a name and age, display all records in a tab
 
 ---
 
-🗂️ Key Code Snippets
+# 🗂️ Key Code Snippets
 
 ## 1. index.php
 
