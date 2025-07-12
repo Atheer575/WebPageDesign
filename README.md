@@ -17,16 +17,6 @@ This project allows users to submit a name and age, display all records in a tab
 
 ---
 
-## 📂 Project Structure
-
-student_form/
-├── index.php
-├── insert.php
-├── toggle.php
-├── image.png
-
----
-
 🗂️ Key Code Snippets
 
 ## 1. index.php
